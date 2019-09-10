@@ -92,9 +92,11 @@ We have no control over and assume no responsibility for the content, privacy po
 
 #### Children's Privacy
 
-Our Service does not address anyone under the age of 18 ("Children").
+Another part of our priority is adding protection for children while using the aplication. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Birdish provides some features and services intended for use by children.
+
+This aplication does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 #### Changes To This Privacy Policy
 
